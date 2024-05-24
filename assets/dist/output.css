@@ -1463,6 +1463,14 @@ Ensure the default browser behavior of the `hidden` attribute.
     max-width: 1010px;
 }
 
+.max-w-unset {
+    max-width: unset;
+}
+
+.max-w-\[100px\] {
+    max-width: 100px;
+}
+
 .grow {
     flex-grow: 1;
 }
